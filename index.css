@@ -1,0 +1,97 @@
+
+body{
+
+    background-image: url(fondo.jpg);
+}
+
+header{
+    background-color:#F1FDF3 ;
+ 
+}
+ .titulo{
+    margin-top: auto;
+    display:flex;
+    color: #579BB1;
+ }
+h2{
+    display: flex;
+    justify-content: center;
+}
+ h4{
+    display: flex;
+    justify-content: center;
+ }
+section{
+    margin:5px;
+
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; 
+    height: 0;
+    overflow: hidden;
+  }
+  
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+ 
+.cotizar{
+    font-weight: bold;
+}
+
+.cotizacion{
+    background-color: black;
+  color: white;
+  border: 2px solid ;
+  font-weight: bolder;
+  width: 100%;
+}
+
+.pedido
+{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    
+    background-color: #579BB1;
+
+}
+
+.imgfooter{
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.footer{
+    display: flex;
+justify-content: center;
+}
+
+.autor{
+    background-color: grey;
+
+}
+
+
+
+
+
+
+
+
+
+
+
