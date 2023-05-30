@@ -64,6 +64,11 @@ section{
     justify-content: center;
 }
 
+.tabla{
+    display: flex;
+    justify-content: center;
+}
+
 footer{
     
     background-color: #579BB1;
